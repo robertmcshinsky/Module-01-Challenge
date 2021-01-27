@@ -54,6 +54,8 @@ body {
   background-size: cover;
   background-position: center;
 }
+
+/* IMAGE DIRECTION STYLES */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -62,11 +64,15 @@ body {
   float: right;
   margin-left: 25px;
 }
+
+/*  CONTENT STYLES */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
+
+/* RIGHT COLUMN STYLES */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -96,6 +102,8 @@ body {
   margin: 10px auto;
   max-width: 150px;
 }
+
+/* LEFT/MIDDLE ROWS STYLES */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -117,6 +125,8 @@ body {
   margin-bottom: 20px;
   font-size: 36px;
 }
+
+/* FOOTER STYLES */
 .footer {
   padding: 30px;
   clear: both;
